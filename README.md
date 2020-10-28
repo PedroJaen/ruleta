@@ -2,7 +2,8 @@
 
 ## Porpouse of the app
 
-List the menu and drinks, filtering by allergens
+* List the menu and drinks, filtering by allergens
+* Fanmade, there is no link with the company
 
 ## Database
 
