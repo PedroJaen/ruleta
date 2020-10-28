@@ -4,8 +4,9 @@
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
     <color name="marron">#9b303a</color>ç
-    <color name="amarillo">#e7ab0f</color>
+    <color name="amarillo">#e6aa0e</color>
+    <color name="amarillo_letra">#f59a04</color>
     <color name="salmon">#dd979f</color>
-    <color name="rojo">#dd979f</color>
-    <color name="azul">#dd979f</color>
+    <color name="rojo_letra">#881819</color>
+    <color name="azul">#488ba8</color>
 </resources>
